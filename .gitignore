@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.vite/
+android/.build/
+android/.signing/
+*.apk.idsig
+*.log
+.DS_Store
